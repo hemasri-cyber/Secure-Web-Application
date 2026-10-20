@@ -1,0 +1,6 @@
+users.db
+security.log
+.env
+venv/
+__pycache__/
+*.pyc
